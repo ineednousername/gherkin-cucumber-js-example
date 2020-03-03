@@ -1,0 +1,4 @@
+/node_modules/
+/.idea/
+/*.iml
+cucumber_report.json

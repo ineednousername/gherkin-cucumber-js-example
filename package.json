@@ -1,0 +1,21 @@
+{
+  "name": "@ineednousername/gherkin-cucumber-js-example",
+  "version": "1.0.0",
+  "description": "example using gherkin and cucumber js",
+  "scripts": {
+    "test": "cucumber-js --exit --require features/step_definitions/*.js -f json:cucumber_report.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ineednousername/gherkin-cucuber-js-example.git"
+  },
+  "devDependencies": {
+    "cucumber": "^4.2.1",
+    "chai": "^4.1.2"
+  },
+  "author": "ineednousername",
+  "bugs": {
+    "url": "https://github.com/ineednousername/gherkin-cucuber-js-example/issues"
+  },
+  "homepage": "https://github.com/ineednousername/gherkin-cucuber-js-example#readme"
+}
